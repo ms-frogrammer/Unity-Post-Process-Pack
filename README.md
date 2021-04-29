@@ -1,2 +1,4 @@
 # Custom_PostProcessing
- 
+yo, this thing is being developed by me for a purpose of having custom PostProcessing tool with more flexibility and cool stuff, also i just wanna learn more about shaders basically cuz i really don't know the heck im doing rn (at least at the time i'm writing this at 3 am).
+
+ I'm following an amazing blog and stuff by https://luka712.github.io/ which basically developed the main base for this and inspired me to start this whole process. Meanwhile, using this magic tool https://thebookofshaders.com/ to actually learn how to do stuff and add custom features. So yeah that's it, use this wherever you want if you find it useful, you can of course modify it anyhow, actually just imagine it fully belongs to you now, just keep in mind to credit the guy i mentioned above (aka this https://luka712.github.io/). Alright have fun kid, cya. - @ms_frogrammer
