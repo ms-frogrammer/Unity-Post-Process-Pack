@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bc524eb8e7064821869a701c73d8bf5, type: 3}
+  m_Name: crt_post_process_profile_default
+  m_EditorClassIdentifier: 
+  shader: {fileID: 4800000, guid: 0b4474531ff0948bc972ea77828c5548, type: 3}
+  hue_shift: 123
+  saturation: 1
+  intensity: 1
+  zoom: 2
+  bend: 2.5
+  middle_bend: 2.5
+  scanlineSize1: 20
+  scanlineSpeed1: -1
+  scanlineSize2: 0
+  scanlineSpeed2: 0
+  scanlineAmount: 2.5
+  vignetteSize: 1.99
+  vignetteSmoothness: 0.48
+  vignetteEdgeRound: 27.82
+  noiseSize: 100
+  noiseAmount: 1.5
+  chromoIntensity: 15
+  redOffset: {x: -1, y: 1}
+  blueOffset: {x: 1, y: -1}
+  greenOffset: {x: 0, y: 0}
