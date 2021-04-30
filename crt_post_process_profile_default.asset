@@ -13,12 +13,12 @@ MonoBehaviour:
   m_Name: crt_post_process_profile_default
   m_EditorClassIdentifier: 
   shader: {fileID: 4800000, guid: 0b4474531ff0948bc972ea77828c5548, type: 3}
-  hue_shift: 123
+  hue_shift: 0
   saturation: 1
   intensity: 1
   zoom: 2
-  bend: 2.5
-  middle_bend: 2.5
+  bend: 1.21
+  middle_bend: 2.97
   scanlineSize1: 20
   scanlineSpeed1: -1
   scanlineSize2: 0
